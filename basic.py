@@ -7,10 +7,6 @@ print("Zee was here.")
 time.sleep(1)
 
 rbxcookiespath = f"{os.path.expanduser("~")}\\AppData\\Local\\Roblox\\LocalStorage\\RobloxCookies.dat"
-profilespath = f"{Path(__file__).parent.absolute()}\\Profiles"
-
-if not Path(f"{Path(__file__).parent.absolute()}\\Profiles").is_dir():
-    os.mkdir(f"{Path(__file__).parent.absolute()}\\Profiles")
 
 def clear_roblox_cookies():
     with open(rbxcookiespath, "w") as f:
