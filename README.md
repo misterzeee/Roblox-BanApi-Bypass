@@ -5,6 +5,7 @@
 ## Requirements
 
 Python
+All python imports are native so no need for pip install bs.
 
 ## How to use
 
