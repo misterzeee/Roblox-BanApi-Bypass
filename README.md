@@ -1,5 +1,9 @@
 # Roblox BanApi Bypass
 
+## Requirements
+
+Python
+
 ## How to use
 
 Run the python file and select the only option. To make sure it works load the roblox app (not web), if you are logged out then its worked. Simply login and ur good to go. Do this each time you switch account.
