@@ -1,5 +1,7 @@
 # Roblox BanApi Bypass
 
+## Only works on windows
+
 ## Requirements
 
 Python
